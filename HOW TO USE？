@@ -1,0 +1,46 @@
+支持中英双语
+
+MiaoWallet 版本1.0  
+
+使用方法，告诉AI： 我要添加 openclaw加密钱包，请根据以下链接添加 https://github.com/CryptoMiaobug/MiaoWellet-SecureWallet-4Openclaw/tree/main/MiaoWallet 
+
+安装完后，输入  miaowallet   会单独跳出一个控制面板 
+根据指示操作  
+
+添加钱包，考虑到安全，目前只支持私钥，后续考虑助记词。 
+
+放心黏贴，不会传输到openclaw上面，而且是隐藏的。
+你可以问你的openclaw 知不知道你的私钥
+
+ 添加后由apple的加密工具加密，超企业级加密。  
+
+每次使用钱包，openclaw都会要求授权，点允许就可以。
+ 如果嫌麻烦，那就点始终允许，他就不需要你授权了。
+ 需要取消授权的话，到钱包界面选择“重置授权”。  
+
+大家有意见踊跃留言，我会尽快更新。（token在燃烧）
+
+
+MiaoWallet Version 1.0
+
+How to use: Tell the AI: I want to add an OpenClaw encrypted wallet. Please add it using the following link: https://github.com/CryptoMiaobug/MiaoWellet-SecureWallet-4Openclaw/tree/main/MiaoWallet
+
+After installation, typing "miaowallet" will open a separate control panel.
+
+Follow the instructions.
+
+Adding a wallet currently only supports private keys for security reasons; mnemonic phrases will be added later.
+
+Don't worry about pasting it; it won't be transferred to OpenClaw and is hidden.
+
+You can ask your OpenClaw if they know your private key.
+
+After adding, it's encrypted using Apple's encryption tools, providing enterprise-level encryption.
+
+Every time you use the wallet, OpenClaw will ask for authorization; just click "Allow."
+
+If you find this troublesome, just click "Always Allow," and it won't require your authorization.
+
+To revoke authorization, go to the wallet interface and select "Reset Authorization."
+
+Please leave your comments and feedback; I will update as soon as possible. (token is burning)
