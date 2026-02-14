@@ -4,7 +4,7 @@ MiaoWallet 版本1.0
 
 使用方法，告诉AI： 我要添加 openclaw加密钱包，请根据以下链接添加 https://github.com/CryptoMiaobug/MiaoWellet-SecureWallet-4Openclaw/tree/main/MiaoWallet 
 
-安装完后，输入  miaowallet   会单独跳出一个控制面板 
+安装完后，输入  -miaowallet   会单独跳出一个控制面板 
 根据指示操作  
 
 添加钱包，考虑到安全，目前只支持私钥，后续考虑助记词。 
@@ -21,11 +21,11 @@ MiaoWallet 版本1.0
 大家有意见踊跃留言，我会尽快更新。（token在燃烧）
 
 
-MiaoWallet Version 1.0
+MiaoWallet 
 
 How to use: Tell the AI: I want to add an OpenClaw encrypted wallet. Please add it using the following link: https://github.com/CryptoMiaobug/MiaoWellet-SecureWallet-4Openclaw/tree/main/MiaoWallet
 
-After installation, typing "miaowallet" will open a separate control panel.
+After installation, typing "-miaowallet" will open a separate control panel.
 
 Follow the instructions.
 
