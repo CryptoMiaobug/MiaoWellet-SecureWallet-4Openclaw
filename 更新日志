@@ -1,0 +1,15 @@
+   ## [2026-02-14] v1.2.0 - Telegram 自定义命令支持                             
+                                                                                
+   ### 新增功能                                                                 
+   - Telegram 自定义命令 `/miaowallet` 已添加到所有三个 bots                    
+   - 命令显示在 Telegram bot 菜单中（手机端）                                   
+   - 桌面端可手动输入 `/miaowallet`                                             
+                                                                                
+   ### 配置更新                                                                 
+   - 所有三个 OpenClaw 实例已更新配置                                           
+   - 重启了所有 gateway                                                         
+                                                                                
+   ### 使用方法                                                                 
+   1. 手机端：点击 bot 菜单里的 "打开钱包面板"                                  
+   2. 电脑端：手动输入 `/miaowallet`                                            
+   3. 群聊中：`@bot /miaowallet`      
